@@ -7,11 +7,6 @@ namespace Lab1
             bool answer = false;
 
             // code here
-
-            using System;
-            internal class Program
-            static void
-
             // end
 
             return answer;
@@ -89,3 +84,4 @@ namespace Lab1
     }
 }
 }
+
